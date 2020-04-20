@@ -33,3 +33,16 @@ Possible Bot ideas - APIs:
   ```
   python dog_pic_gen.py
   ```
+  
+# Examples
+1. random dog picture generator
+- ![Image of dog picture generator](https://github.com/qiyun28/telegram-bot-playground/blob/master/dog_pic_gen.png)
+2. chat bot
+- ![Image of chat bot](https://github.com/qiyun28/telegram-bot-playground/blob/master/chat_bot.png)
+3. image style transfer
+- content picture (Photo by Igor Stepanov on Unsplash)
+- ![Image of content](https://github.com/qiyun28/telegram-bot-playground/blob/master/igor-stepanov-5uUPrmZgEYM-unsplash.jpg)
+- style picture
+- ![Image of style](https://github.com/qiyun28/telegram-bot-playground/blob/master/europeana-uS5LXujNOq4-unsplash.jpg)
+- output
+- ![Image of output](https://api.deepai.org/job-view-file/06e4f9d5-ae20-493e-9d6d-5524056e4570/outputs/output.png)
