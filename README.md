@@ -35,14 +35,13 @@ Possible Bot ideas - APIs:
   ```
   
 # Examples
-1. random dog picture generator
-- followed tutorial [link] (https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/)
+1. random dog picture generator. followed [tutorial](https://www.freecodecamp.org/news/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4/)
 - <img src="https://github.com/qiyun28/telegram-bot-playground/blob/master/dog_pic_gen.png" width=400>
 
-2. chat bot (followed official example [link] (https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/echobot2.py))
+2. chat bot. followed official [example](https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/echobot2.py)
 - <img src="https://github.com/qiyun28/telegram-bot-playground/blob/master/chat_bot.png" width=400>
 
-3. image style transfer (using deep ai API [link] (https://deepai.org/machine-learning-model/fast-style-transfer))
+3. image style transfer. using deep AI [API](https://deepai.org/machine-learning-model/fast-style-transfer)
 - content picture (Photo by Igor Stepanov on Unsplash)
 - <img src="https://github.com/qiyun28/telegram-bot-playground/blob/master/igor-stepanov-5uUPrmZgEYM-unsplash.jpg" width=350>
 - style picture
